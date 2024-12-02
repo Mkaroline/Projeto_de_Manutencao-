@@ -1,3 +1,3 @@
 # Projeto_de_Manutencao-
 
-Gerenciamento de Estacionamento
+Sistema de Gerenciamento de Estacionamento
