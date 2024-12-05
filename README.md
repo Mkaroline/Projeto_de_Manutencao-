@@ -3,11 +3,7 @@
 Sistema de Gerenciamento de Estacionamento
 ### Welcom to LISA DRF Quick Project!
 
-Welcome to our Quick Hands-on Django Rest Framework Project! In this interactive learning experience, you will dive into the world of building powerful Web APIs with Django Rest Framework (DRF). Whether you are new to Django or already familiar with it, this project will provide you with a practical, step-by-step approach to create RESTful APIs in no time.
-
-Throughout this hands-on journey, you will explore essential DRF components like serializers, views, authentication, and permissions, among others. You will get hands-on with writing unit tests using pytest to ensure the reliability of your API endpoints. By the end of this project, you will have a solid understanding of how DRF works and the confidence to build robust and efficient Web APIs with Django.
-
-Let's embark on this exciting learning adventure together, where you'll gain valuable skills that will be beneficial for your future projects and development endeavors. Let's get started! Happy coding!
+Este trabalho descreve o desenvolvimento de uma API, criada como parte da disciplina de Manutenção de Software, com o uso do Django REST Framework. A API foi projetada para gerenciar um sistema de estacionamento rotativo. O projeto foi baseado no framework Django QuickProject, que pode ser encontrado no GitHub no seguinte link: https://github.com/lisa-ufersa/django-quickproject. O objetivo da implementação dessa API é aplicar os conceitos aprendidos ao longo da disciplina, integrando-os com as melhores práticas no desenvolvimento de aplicações web e na gestão de sistemas.
 
 #### Django Rest Framework (DRF)
 
