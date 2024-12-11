@@ -3,7 +3,7 @@
 Sistema de Gerenciamento de Estacionamento
 ### Welcom to LISA DRF Quick Project!
 
-Este trabalho descreve o desenvolvimento de uma API, criada como parte da disciplina de Manutenção de Software, com o uso do Django REST Framework. A API foi projetada para gerenciar um sistema de estacionamento rotativo. O projeto foi baseado no framework Django QuickProject, que pode ser encontrado no GitHub no seguinte link: https://github.com/lisa-ufersa/django-quickproject. O objetivo da implementação dessa API é aplicar os conceitos aprendidos ao longo da disciplina, integrando-os com as melhores práticas no desenvolvimento de aplicações web e na gestão de sistemas.
+Este trabalho descreve o desenvolvimento de uma API, criada como parte da disciplina de Manutenção de Software, com o uso do Django REST Framework. A API foi projetada para gerenciar um sistema de estacionamento. O projeto foi baseado no framework Django QuickProject, que pode ser encontrado no GitHub no seguinte link: https://github.com/lisa-ufersa/django-quickproject. O objetivo da implementação dessa API é aplicar os conceitos aprendidos ao longo da disciplina, integrando-os com as melhores práticas no desenvolvimento de aplicações web e na gestão de sistemas.
 
 #### Django Rest Framework (DRF)
 
